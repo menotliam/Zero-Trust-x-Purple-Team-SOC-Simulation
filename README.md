@@ -1,0 +1,1 @@
+# Zero-Trust-x-Purple-Team-SOC-Simulation
